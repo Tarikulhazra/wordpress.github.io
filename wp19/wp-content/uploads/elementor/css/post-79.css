@@ -1,0 +1,23 @@
+.elementor-79 .elementor-element.elementor-element-e6610f9 > .elementor-container{max-width:500px;}.elementor-79 .elementor-element.elementor-element-e6610f9{padding:50px 0px 50px 0px;}.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-text .aux-text-widget-header{padding:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-ico-box{padding:0px 0px 30px 0px;color:#ffffff;}.elementor-79 .elementor-element.elementor-element-a4d3366 .col-title a, .elementor-79 .elementor-element.elementor-element-a4d3366 .col-title{color:var( --e-global-color-text );}.elementor-79 .elementor-element.elementor-element-a4d3366 .col-title, .elementor-79 .elementor-element.elementor-element-a4d3366 .col-title a{font-size:30px;font-weight:normal;text-transform:uppercase;line-height:1.5em;}.elementor-79 .elementor-element.elementor-element-a4d3366 .widget-content{color:#676767 !important;}.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-text .aux-text-widget-content{padding:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-advanced-text{text-align:center !important;padding:75px 60px 75px 60px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#DBDBDB;background-color:#FFFFFF;}.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-advanced-text:hover{border-style:solid;border-width:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-79 .elementor-element.elementor-element-a4d3366 .col-title, .elementor-79 .elementor-element.elementor-element-a4d3366 .col-title a{font-size:1.8em;}}@media(max-width:767px){.elementor-79 .elementor-element.elementor-element-a4d3366 .col-title, .elementor-79 .elementor-element.elementor-element-a4d3366 .col-title a{font-size:1.5em;}.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-advanced-text{padding:50px 25px 50px 25px;}.elementor-79 .elementor-element.elementor-element-a4d3366{max-width:100%;}}/* Start custom CSS for aux_text, class: .elementor-element-a4d3366 */.elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-advanced-text:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(40deg,var(--e-global-color-primary),var(--e-global-color-secondary));
+    box-shadow: 0 17px 45px #4BB7F15C;
+    opacity: 0;
+}
+.elementor-79 .elementor-element.elementor-element-a4d3366:hover .aux-text-widget-content .col-title, .elementor-79 .elementor-element.elementor-element-a4d3366:hover .aux-text-widget-content .widget-content {
+    color: var( --e-global-color-accent ) !important;
+}
+.elementor-79 .elementor-element.elementor-element-a4d3366:hover .aux-widget-advanced-text:before {
+    opacity: 1;
+}
+.elementor-79 .elementor-element.elementor-element-a4d3366, .elementor-79 .elementor-element.elementor-element-a4d3366:hover, .elementor-79 .elementor-element.elementor-element-a4d3366 .aux-widget-advanced-text:before {
+    transition-property: all;
+    transition-delay: 0ms;
+    transition-duration: 600ms;
+    transition-timing-function: cubic-bezier(.25,.46,.45,.94);
+}/* End custom CSS */
